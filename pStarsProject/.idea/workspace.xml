@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38c8e7ff-c91a-4483-982e-57b20114bfd8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fjZ7omiDgKpwwnCNpBXcnANr7M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="TestNG.CreateFixture.postThenDelete">
+    <configuration name="BodyTestWithSimpleMap.returnCorrectNumberOfFixtureIds" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FixturesApiAutomation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BodyTestWithSimpleMap" />
+      <option name="METHOD_NAME" value="returnCorrectNumberOfFixtureIds" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BodyTestWithSimpleMap.returnCorrectNumberOfFixtures" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FixturesApiAutomation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BodyTestWithSimpleMap" />
+      <option name="METHOD_NAME" value="returnCorrectNumberOfFixtures" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BodyTestWithSimpleMap.returnsNewFixture" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FixturesApiAutomation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BodyTestWithSimpleMap" />
+      <option name="METHOD_NAME" value="returnsNewFixture" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateFixture.postThenDelete" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FixturesApiAutomation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CreateFixture" />
+      <option name="METHOD_NAME" value="postThenDelete" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateFixture.whenPostJsonUsingHttpClient_thenCorrect" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FixturesApiAutomation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CreateFixture" />
+      <option name="METHOD_NAME" value="whenPostJsonUsingHttpClient_thenCorrect" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.CreateFixture.postThenDelete" />
+        <item itemvalue="TestNG.BodyTestWithSimpleMap.returnCorrectNumberOfFixtureIds" />
+        <item itemvalue="TestNG.BodyTestWithSimpleMap.returnCorrectNumberOfFixtures" />
+        <item itemvalue="TestNG.BodyTestWithSimpleMap.returnsNewFixture" />
+        <item itemvalue="TestNG.CreateFixture.whenPostJsonUsingHttpClient_thenCorrect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38c8e7ff-c91a-4483-982e-57b20114bfd8" name="Default Changelist" comment="" />
+      <created>1596733297741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596733297741</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="709" y="251" key="#com.intellij.ide.util.MemberChooser" timestamp="1611846962536">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="709" y="251" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1611846962536" />
+    <state x="539" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1611586829946">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="539" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1611586829946" />
+    <state width="566" height="466" key="DebuggerActiveHint" timestamp="1611942633883">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="566" height="466" key="DebuggerActiveHint/0.0.1792.1120@0.0.1792.1120" timestamp="1611942633883" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1612032618654">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1612032618654" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1612032618649">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1612032618649" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1612032618647">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1612032618647" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1612032618652">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1612032618652" />
+    <state width="1750" height="355" key="GridCell.Tab.1.bottom" timestamp="1611942899362">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="355" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1611942899362" />
+    <state width="1750" height="355" key="GridCell.Tab.1.center" timestamp="1611942899358">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="355" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1611942899358" />
+    <state width="1750" height="355" key="GridCell.Tab.1.left" timestamp="1611942899355">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="355" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1611942899355" />
+    <state width="1750" height="355" key="GridCell.Tab.1.right" timestamp="1611942899360">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="355" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1611942899360" />
+    <state x="434" y="222" key="Maven.ArtifactSearchDialog" timestamp="1611948840111">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="434" y="222" key="Maven.ArtifactSearchDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1611948840111" />
+    <state x="554" y="317" width="683" height="486" key="find.popup" timestamp="1611949293785">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="554" y="317" width="683" height="486" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1611949293785" />
+    <state x="273" y="257" key="new project wizard" timestamp="1611076251721">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="273" y="257" key="new project wizard/0.0.1792.1120@0.0.1792.1120" timestamp="1611076251721" />
+    <state x="561" y="265" key="run.anything.popup" timestamp="1611777675704">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="265" key="run.anything.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1611777675704" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1611952257545">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1611952257545" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Get200.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Get200.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/BodyTestWithJackson.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/BodyTestWithSimpleMap.java</url>
+          <line>137</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/BodyTestWithSimpleMap.java</url>
+          <line>154</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/CreateFixture.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/BodyTestWithSimpleMap.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/BodyTestWithSimpleMap.java</url>
+          <line>115</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/BodyTestWithSimpleMap.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/BodyTestWithSimpleMap.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/BodyTestWithSimpleMap.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
